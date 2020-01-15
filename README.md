@@ -1,5 +1,6 @@
 
-1：vue-cli 在postcss.config.js配置postcss-px-to-viewport
+1：vue-cli 在postcss.config.js配置postcss-px-to-viewport  
+```javascript
 module.exports = {
   plugins: {
     'postcss-import': {},
@@ -17,3 +18,4 @@ module.exports = {
     }
   }
 }
+```
