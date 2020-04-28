@@ -43,3 +43,5 @@ html{
     font-size: rem(14px);
 }
 ```   
+3：数组去重扁平化
+Array.from(new Set(arr.flat(Infinity))).sort((a,b)=>{ return a-b})
