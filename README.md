@@ -62,3 +62,10 @@ engine.clear(new BABYLON.Color3(0.32, 0.32, 0.32), true, true, true)
 // let gl = canvas.getContext('webgl2')
 // gl.clear(gl.COLOR_BUFFER_BIT)
 ```
+
+5：vue的watch监听数组或者数组下标值
+```javascript
+ "arr.0.name":function(val, oldVal) {
+    console.log(val);
+ },
+```
