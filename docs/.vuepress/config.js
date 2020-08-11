@@ -11,7 +11,7 @@ module.exports = {
   markdown: {
     lineNumbers: true
   },
-  base: '/',
+  base: '/workx/',
   extraWatchFiles: [
     '.vuepress/nav.js', 
     '.vuepress/sidebar.js'
