@@ -4,7 +4,8 @@ module.exports = {
       title: 'javascript',
       collapsable: false,
       children:[
-        ''
+        '',
+        'test'
       ]
     },
   ],

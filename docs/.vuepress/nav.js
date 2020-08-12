@@ -15,6 +15,7 @@ module.exports = [
     text: '其他',
     link: '/other/'
   },
+  { text: 'Github', link: 'https://github.com/liuchang567' },
   // {
   //   text: '了解更多',
   //   ariaLabel: '菜单',
