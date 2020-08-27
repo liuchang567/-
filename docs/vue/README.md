@@ -24,3 +24,14 @@ module.exports = {
     console.log(val);
  },
 ```
+
+3：element-ui在同个日期组件，动态改变type，加key解决日期弹出框错位问题
+```javascript
+<el-date-picker
+    v-model="date"
+    :type="'date'"
+    :disabled="true"
+    format="yyyy-MM-dd"
+    placeholder="选择日期">
+</el-date-picker>
+ ```
