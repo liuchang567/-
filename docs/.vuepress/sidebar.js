@@ -13,7 +13,8 @@ module.exports = {
     {
       title: 'css',
       children:[
-        ''
+        '',
+        'sass'
       ]
     },
   ],

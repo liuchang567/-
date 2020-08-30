@@ -2,7 +2,7 @@ const nav = require('./nav')
 const sidebar = require('./sidebar')
 
 module.exports = {
-  title: '工作中的妙小招',
+  title: '工作中的小妙招',
   description: '更新日常工作中好方法',
   head: [
     ['link', { rel: 'icon', href: '/logo.jpg' }]
